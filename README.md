@@ -22,8 +22,7 @@ A modern **MERN Stack Product Manager App** where users can:
 
 👉 Frontend: http://localhost:3000
 👉 Backend: http://localhost:5000
-
-> ⚠️ (Update these links after deployment)
+
 
 ---
 
